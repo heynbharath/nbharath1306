@@ -15,7 +15,7 @@
     
     <line x1="50" y1="50" x2="50" y2="400" class="hud-line" />
     <line x1="50" y1="400" x2="750" y2="400" class="hud-line" />
-    <text x="60" y="390" class="text">SYS_TIME: 2026.04.24 :: 0146</text>
+    <text x="60" y="390" class="text">SYS_TIME: 2026.04.25 :: 0125</text>
     <text x="60" y="375" class="text">SECTOR: N_BHARATH_PRIME</text>
     
     <circle cx="400" cy="225" r="25" fill="url(#grad1)" class="sun" />
@@ -26,34 +26,34 @@
         </radialGradient>
     </defs>
     <circle cx="400" cy="225" r="150.0" class="orbit" />
-<circle cx="501.03709645421293" cy="114.13293933678015" r="50" fill="#e34c26" class="planet" />
-<text x="516.0370964542129" y="119.13293933678015" class="text" fill="white">CIRCLE13</text>
+<circle cx="250.2776797378306" cy="215.8771268060779" r="50" fill="#e34c26" class="planet" />
+<text x="265.27767973783057" y="220.8771268060779" class="text" fill="white">CIRCLE13</text>
 <circle cx="400" cy="225" r="240.0" class="orbit" />
-<circle cx="278.83227155064765" cy="17.83247942202908" r="50" fill="#f1e05a" class="planet" />
-<text x="293.83227155064765" y="22.83247942202908" class="text" fill="white">REDSHIFT</text>
+<circle cx="164.240290994388" cy="269.9150265455689" r="50" fill="#f1e05a" class="planet" />
+<text x="179.240290994388" y="274.9150265455689" class="text" fill="white">REDSHIFT</text>
 <circle cx="400" cy="225" r="330.0" class="orbit" />
-<circle cx="707.0433920018378" cy="345.9312012179064" r="50" fill="#e34c26" class="planet" />
-<text x="722.0433920018378" y="350.9312012179064" class="text" fill="white">ALVRYN-AI</text>
+<circle cx="716.5431142355206" cy="131.72376063499271" r="50" fill="#e34c26" class="planet" />
+<text x="731.5431142355206" y="136.72376063499271" class="text" fill="white">ALVRYN-AI</text>
 <circle cx="400" cy="225" r="415.422" class="orbit" />
-<circle cx="409.5657070923153" cy="640.3118531077871" r="46.948" fill="#f1e05a" class="planet" />
-<text x="424.5657070923153" y="645.3118531077871" class="text" fill="white">DRIFT-CIRCLE13</text>
+<circle cx="694.9303511122079" cy="517.5602947715731" r="46.948" fill="#f1e05a" class="planet" />
+<text x="709.9303511122079" y="522.5602947715731" class="text" fill="white">DRIFT-CIRCLE13</text>
 <circle cx="400" cy="225" r="461.8095" class="orbit" />
-<circle cx="655.3602809659104" cy="609.784538664512" r="20.925" fill="#2b7489" class="planet" />
-<text x="670.3602809659104" y="614.784538664512" class="text" fill="white">DSATM-EXAM-SYSTEM-</text>
-<circle cx="400" cy="225" r="504.894" class="orbit" />
-<circle cx="542.37318531601" cy="709.4046111867362" r="18.723" fill="#8b949e" class="planet" />
-<text x="557.37318531601" y="714.4046111867362" class="text" fill="white">NBHARATH1306</text>
-<circle cx="400" cy="225" r="547.1265" class="orbit" />
-<circle cx="-135.3504133528378" cy="112.09587286021977" r="18.155" fill="#e34c26" class="planet" />
-<text x="-120.35041335283779" y="117.09587286021977" class="text" fill="white">WEBSITE-EQUDATOR-TRADING-PLATFORM</text>
-<circle cx="400" cy="225" r="577.959" class="orbit" />
-<circle cx="433.9506409703406" cy="801.9609689213846" r="10.555" fill="#8b949e" class="planet" />
-<text x="448.9506409703406" y="806.9609689213846" class="text" fill="white">FLASK</text>
-<circle cx="400" cy="225" r="608.232" class="orbit" />
-<circle cx="712.1603112820736" cy="747.0173425129465" r="10.182" fill="#8b949e" class="planet" />
-<text x="727.1603112820736" y="752.0173425129465" class="text" fill="white">HCF-INTERNSHIP</text>
-<circle cx="400" cy="225" r="637.101" class="orbit" />
-<circle cx="649.1289529121422" cy="811.3722785244026" r="9.246" fill="#8b949e" class="planet" />
+<circle cx="754.8062271739789" cy="-70.60202206483115" r="20.925" fill="#2b7489" class="planet" />
+<text x="769.8062271739789" y="-65.60202206483115" class="text" fill="white">DSATM-EXAM-SYSTEM-</text>
+<circle cx="400" cy="225" r="504.89700000000005" class="orbit" />
+<circle cx="750.6067631402211" cy="588.3123700747567" r="18.725" fill="#8b949e" class="planet" />
+<text x="765.6067631402211" y="593.3123700747567" class="text" fill="white">NBHARATH1306</text>
+<circle cx="400" cy="225" r="547.1295" class="orbit" />
+<circle cx="197.08217806379776" cy="733.1092867788559" r="18.155" fill="#e34c26" class="planet" />
+<text x="212.08217806379776" y="738.1092867788559" class="text" fill="white">WEBSITE-EQUDATOR-TRADING-PLATFORM</text>
+<circle cx="400" cy="225" r="577.962" class="orbit" />
+<circle cx="550.7326018378017" cy="-332.96035359800135" r="10.555" fill="#8b949e" class="planet" />
+<text x="565.7326018378017" y="-327.96035359800135" class="text" fill="white">FLASK</text>
+<circle cx="400" cy="225" r="608.235" class="orbit" />
+<circle cx="199.80320475277736" cy="799.3440244293847" r="10.182" fill="#8b949e" class="planet" />
+<text x="214.80320475277736" y="804.3440244293847" class="text" fill="white">HCF-INTERNSHIP</text>
+<circle cx="400" cy="225" r="637.104" class="orbit" />
+<circle cx="-228.39631815444602" cy="120.02584057999672" r="9.246" fill="#8b949e" class="planet" />
 
     <text x="400" y="40" text-anchor="middle" class="title">SYSTEM SINGULARITY</text>
     </svg>
